@@ -18,6 +18,7 @@ This script uses the [Have I Been Pwned](https://haveibeenpwned.com/API/v3#Autho
 ### 📦 Installation
 
 1. Clone the repo:
+
    git clone https://github.com/your-username/password-checker.git
    
    cd password-checker
