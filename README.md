@@ -19,10 +19,11 @@ This script uses the [Have I Been Pwned](https://haveibeenpwned.com/API/v3#Autho
 
 1. Clone the repo:
    git clone https://github.com/your-username/password-checker.git
+   
    cd password-checker
 
-2. Install dependencies:
+3. Install dependencies:
   pip install requests
 
-3. Run the script:
+4. Run the script:
    python password_checker.py
